@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57027379012",
+    "project_id": "giulyaiapp",
+    "storage_bucket": "giulyaiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57027379012:android:49b14fa6c9164f2b74e111",
+        "android_client_info": {
+          "package_name": "com.example.guily_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57027379012-qer8417pbm46erkdtk4i9otu8dlujm0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guily_app",
+            "certificate_hash": "765e8748a7f77aa48439885ee095381a9127e95c"
+          }
+        },
+        {
+          "client_id": "57027379012-8nkpp25b5cqj5bnjm7vc15gfp7l2uvc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAreBVkn0p1VaZD07OBrQnHK5nL6u2cC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57027379012-8nkpp25b5cqj5bnjm7vc15gfp7l2uvc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
